@@ -1,9 +1,13 @@
 # Local-WebCrawler-CPP
 
 Overview
+
+
 CppLocalCrawler is a powerful and interactive C++ local web crawler designed to search and analyze text files within a specified directory. This tool provides a user-friendly interface, allowing users to save search histories, view word frequencies, and display file contents on demand. It ranks files based on the frequency of searched words, making it easy to identify the most relevant files quickly.
 
 Features
+
+
 Interactive Interface: User-friendly command-line interface for easy interaction.
 Search History: Save and view previous search queries.
 Word Frequency Analysis: Find and display the frequency of specified words in text files.
