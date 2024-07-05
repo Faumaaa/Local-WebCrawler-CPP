@@ -22,8 +22,8 @@ Upon running the crawler, you'll be prompted with an interactive menu. Here are 
 
 Search for a Word:
 
-           -Enter the word you want to search for across text files in the specified directory.
-           -The crawler will display the frequency of the word in each file.
+        -Enter the word you want to search for across text files in the specified directory.
+        -The crawler will display the frequency of the word in each file.
 
 View File Rankings:
 
